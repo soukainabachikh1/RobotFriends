@@ -1,0 +1,32 @@
+export const robots=[
+    {
+        id:1,
+        name:"souka",
+        username:"soso1",
+        email:"souka1@gmail.com"
+    },
+    {
+        id:2,
+        name:"hamza",
+        username:"soso2",
+        email:"souka2@gmail.com"
+    },
+    {
+        id:3,
+        name:"ijja",
+        username:"soso3",
+        email:"souka3@gmail.com"
+    },
+    {
+        id:4,
+        name:"hana",
+        username:"soso4",
+        email:"souka4@gmail.com"
+    },
+    {
+        id:5,
+        name:"marwa",
+        username:"soso5",
+        email:"souka5@gmail.com"
+    }
+]
