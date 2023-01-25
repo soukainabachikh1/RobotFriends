@@ -1,0 +1,32 @@
+export const robots=[
+    {
+        id:1,
+        name:"Alien",
+        username:"alien",
+        email:"alien@gmail.com"
+    },
+    {
+        id:2,
+        name:"Roffel",
+        username:"roffel",
+        email:"roffel@gmail.com"
+    },
+    {
+        id:3,
+        name:"Dam",
+        username:"dam",
+        email:"dam@gmail.com"
+    },
+    {
+        id:4,
+        name:"Cowwy",
+        username:"cowwy",
+        email:"cowwy@gmail.com"
+    },
+    {
+        id:5,
+        name:"iron",
+        username:"iron",
+        email:"iron@gmail.com"
+    }
+]
